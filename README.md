@@ -3,15 +3,14 @@
 
 ### ► Implemented Algorithms
 
-● BubbleSort.h
+● Bubble Sort
 
-● MergeSort.h
+● Merge Sort
 
-● QuickSort.h
+● Quick Sort
 
-● RadixSort.h
+● Radix Sort
 
-● SelectionSort.h
+● Selection Sort
 
-● SortingAlgorithms.h
 
