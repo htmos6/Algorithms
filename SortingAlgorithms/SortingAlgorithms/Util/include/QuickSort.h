@@ -27,11 +27,6 @@ void QuickSort(T arr[], int low, int high)
 				ScanDown--;
 			}
 
-			while (arr[ScanUp] <= pivot)
-			{
-				ScanUp++;
-			}
-
 			if (ScanUp < ScanDown)
 			{
 				Swap(arr[ScanUp], arr[ScanDown]);
