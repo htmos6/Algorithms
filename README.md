@@ -7,10 +7,14 @@
 
 ● Merge Sort
 
+● Recursive Merge Sort
+
 ● Quick Sort
 
 ● Radix Sort
 
 ● Selection Sort
+
+● Insertion Sort
 
 
